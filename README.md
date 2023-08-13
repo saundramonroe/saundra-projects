@@ -1,3 +1,4 @@
 # saundra-projects
 my hobbie projects
-Just added manually. this is my local changes 
+
+This file was modified manually during conflict resolution. this isnt changed
