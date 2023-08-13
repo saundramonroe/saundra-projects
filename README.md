@@ -1,5 +1,4 @@
 # saundra-projects
 my hobbie projects
-Just added manually
 
-One more edit to the readme file
+This file was modified manually during conflict resolution. this isnt changed
